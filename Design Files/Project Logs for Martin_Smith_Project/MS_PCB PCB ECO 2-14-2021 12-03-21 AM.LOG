@@ -1,0 +1,5 @@
+Added Component: Designator=J2(SMD PAD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=W_Pad1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=U_Connector Section Member=Component J2 SMD PADS
