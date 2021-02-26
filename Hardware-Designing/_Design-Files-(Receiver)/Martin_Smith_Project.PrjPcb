@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ILTQRNDM
 
 [Document7]
-DocumentPath=MS_PCB.PcbDoc
+DocumentPath=MS_PCB_New.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -172,6 +172,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Martin_Smith_Project\Design Rule Check - MS_PCB_New.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
