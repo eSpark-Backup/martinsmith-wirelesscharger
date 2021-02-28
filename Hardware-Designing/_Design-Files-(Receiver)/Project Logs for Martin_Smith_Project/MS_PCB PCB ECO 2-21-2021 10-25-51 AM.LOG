@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CHG_ Pin=U4-20
+Removed Pin From Net: NetName=PWR_EN Pin=U4-24
+Removed Pin From Net: NetName=STDBY Pin=U4-39
+Added Pin To Net: NetName=PWR_EN Pin=U4-20
+Added Pin To Net: NetName=CHG_ Pin=U4-24
+Added Pin To Net: NetName=STDBY Pin=U4-25

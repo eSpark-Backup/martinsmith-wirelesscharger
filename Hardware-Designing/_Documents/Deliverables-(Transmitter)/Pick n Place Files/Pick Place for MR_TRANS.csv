@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark Group\Downloads\Martin_Smith-Faizan\Martin_Smith-Faizan\Hardware-Designing\_Design-Files-(Transmitter)\Project Outputs for Martin Transmitter\Pick Place for MR_TRANS.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/02/21
+Time:       07:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"U1","BottomLayer","277,180mil","-619,783mil","25","277,180mil","-619,783mil","210,752mil","-733,512mil"
+"U2","BottomLayer","-226,627mil","-622,592mil","338","-226,627mil","-622,592mil","-355,106mil","-651,573mil"
+"R5","BottomLayer","250,000mil","635,000mil","180","250,000mil","635,000mil","260,827mil","635,000mil"
+"R4","BottomLayer","250,000mil","660,000mil","180","250,000mil","660,000mil","260,827mil","660,000mil"
+"R3","BottomLayer","155,576mil","-733,812mil","295","155,576mil","-733,812mil","151,000mil","-724,000mil"
+"R2","BottomLayer","111,424mil","-643,188mil","115","111,424mil","-643,188mil","116,000mil","-653,000mil"
+"R1","BottomLayer","87,000mil","-655,000mil","115","87,000mil","-655,000mil","91,576mil","-664,812mil"
+"J2","BottomLayer","19,685mil","648,848mil","360","19,685mil","648,848mil","-100,394mil","581,918mil"
+"J1","TopLayer","28,373mil","735,000mil","180","28,373mil","735,000mil","68,373mil","735,000mil"
+"C6","BottomLayer","332,000mil","633,000mil","90","332,000mil","633,000mil","332,000mil","614,500mil"
+"C5","BottomLayer","365,000mil","634,000mil","270","365,000mil","634,000mil","365,000mil","645,811mil"
+"C3","TopLayer","39,000mil","680,000mil","180","39,000mil","680,000mil","50,811mil","680,000mil"
+"C2","BottomLayer","446,000mil","-547,000mil","295","446,000mil","-547,000mil","424,869mil","-501,685mil"
+"C1","BottomLayer","133,000mil","-687,000mil","295","133,000mil","-687,000mil","128,008mil","-676,295mil"

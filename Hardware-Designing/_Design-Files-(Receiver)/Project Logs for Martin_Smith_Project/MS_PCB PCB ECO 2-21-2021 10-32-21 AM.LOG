@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=\D\R\I\\V\E\_\E\N\_ Pin=U4-15
+Removed Pin From Net: NetName=PWR_EN Pin=U4-20
+Added Pin To Net: NetName=PWR_EN Pin=U4-15
+Added Pin To Net: NetName=\D\R\I\\V\E\_\E\N\_ Pin=U4-20
