@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO17 Pin=U4-22
+Removed Pin From Net: NetName=\D\R\I\\V\E\_\E\N\_ Pin=U4-23
+Added Pin To Net: NetName=\D\R\I\\V\E\_\E\N\_ Pin=U4-22
+Added Pin To Net: NetName=GPIO17 Pin=U4-23
