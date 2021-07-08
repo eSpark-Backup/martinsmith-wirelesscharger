@@ -48,7 +48,7 @@ void setup() {
   driver.sedn(0b01);
   driver.SGTHRS(STALL_VALUE);
   Serial.println(driver.version(), HEX);
-  driver.internal_Rsense(true);
+  //driver.internal_Rsense(true);
 
   //activate_interrupt();
 
