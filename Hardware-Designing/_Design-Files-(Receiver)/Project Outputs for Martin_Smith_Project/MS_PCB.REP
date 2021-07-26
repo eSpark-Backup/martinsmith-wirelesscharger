@@ -2,37 +2,10 @@
 FileName = MS_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Drill Drawing
-      File : MS_PCB.GD1
+Generating : Bottom Solder
+      File : MS_PCB.GBS
 
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D207
-    D208
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : MS_PCB.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D207
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : MS_PCB.GBP
-
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -40,21 +13,64 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D51
+    D52
+    D54
+    D55
+    D67
+    D68
+    D69
+    D78
+    D83
+    D84
+    D85
+    D86
+    D87
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MS_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
     D21
+    D22
     D24
-    D31
-    D33
-    D34
-    D35
+    D25
     D36
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D152
+    D37
+    D38
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D118
     D153
     D154
     D155
@@ -62,6 +78,71 @@ Used DCodes :
     D157
     D158
     D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MS_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D227
 *************************************************************
 
 *************************************************************
@@ -104,6 +185,104 @@ Used DCodes :
     D46
     D47
     D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MS_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D24
+    D25
+    D36
+    D37
+    D38
+    D153
+    D154
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MS_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D24
+    D25
+    D36
+    D37
+    D38
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MS_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
@@ -143,22 +322,48 @@ Used DCodes :
     D45
     D46
     D47
-    D140
+    D48
+    D49
+    D153
+    D154
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : MS_PCB.GBO
+Generating : Drill Drawing
+      File : MS_PCB.GD1
 
-    Adding Layer      : Bottom Overlay
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D14
-    D206
+    D228
+    D229
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MS_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D228
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : MS_PCB.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D13
 *************************************************************
 
 *************************************************************
@@ -173,8 +378,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D49
-    D50
     D51
     D52
     D53
@@ -205,6 +408,13 @@ Used DCodes :
     D78
     D79
     D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
 *************************************************************
 
 *************************************************************
@@ -217,7 +427,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
+    D11
+    D15
     D21
     D22
     D23
@@ -246,13 +457,8 @@ Used DCodes :
     D46
     D47
     D48
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
+    D49
+    D50
     D88
     D89
     D90
@@ -307,144 +513,6 @@ Used DCodes :
     D139
     D140
     D141
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : MS_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : MS_PCB.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D24
-    D31
-    D33
-    D34
-    D35
-    D36
-    D140
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
-    D158
-    D159
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : MS_PCB.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : MS_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D52
-    D59
-    D61
-    D62
-    D63
-    D64
-    D72
-    D77
-    D78
-    D79
-    D80
-    D190
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : MS_PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D21
-    D24
-    D31
-    D33
-    D34
-    D35
-    D36
-    D81
-    D82
-    D83
-    D84
-    D86
-    D92
-    D140
-    D141
     D142
     D143
     D144
@@ -459,39 +527,5 @@ Used DCodes :
     D153
     D154
     D155
-    D156
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-    D167
-    D168
-    D169
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-    D176
-    D177
-    D178
-    D179
-    D180
-    D181
-    D182
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-    D189
 *************************************************************
 

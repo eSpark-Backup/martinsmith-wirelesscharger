@@ -1,0 +1,97 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark-37\Documents\GitHub\Martin_Smith\Hardware-Designing\_Design-Files-(Receiver)\Project Outputs for Martin_Smith_Project\Pick Place for MS_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/07/21
+Time:       19:53
+Revision:   63b394905a4c49fe660ca125e4ec9f2fecd2bb1b
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                             Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+C11        4.7uF              TopLayer    Cap0402            768,449mil    384,307mil    270      "0402 10 V 4.7 uF ±20% Tolerance X5R Multilayer Ceramic Chip Capacitor" 768,449mil  384,307mil  768,449mil  402,807mil  
+C15        0.1uF              TopLayer    CAP_0201           588,009mil    1087,704mil   295      "CAP CER 0.1UF 35V X5R 0201"                                            588,009mil  1087,704mil 583,017mil  1098,409mil 
+J1         B3B-PH-K-S(LF)(SN) TopLayer    B3B-PH-K-S(LF)(SN) 78,740mil     0,000mil      360      "CONN HEADER VERT 3POS 2MM"                                             78,740mil   0,000mil    0,000mil    0,000mil    
+R20        180m               BottomLayer RES_2512           557,953mil    329,000mil    180      "0.18O ±5% 1W ±200ppm/? 2512 Chip Resistor - Surface Mount RoHS"        557,953mil  329,000mil  685,905mil  329,000mil  
+R15        180m               BottomLayer RES_2512           557,953mil    498,000mil    180      "0.18O ±5% 1W ±200ppm/? 2512 Chip Resistor - Surface Mount RoHS"        557,953mil  498,000mil  685,905mil  498,000mil  
+R3         107K               TopLayer    Res-0201           729,346mil    502,000mil    360      "RES SMD 107kO ±1% 1/20W  0201"                                         729,346mil  502,000mil  718,520mil  502,000mil  
+R2         604K               TopLayer    Res-0201           775,173mil    526,000mil    180      "RES SMD 604K OHM 1% 1/20W 0201"                                        775,173mil  526,000mil  786,000mil  526,000mil  
+C28        1uF                TopLayer    CAP_0201           173,000mil    831,811mil    90       "CAP CER 1UF 16V X5R 0201"                                              173,000mil  831,811mil  173,000mil  820,000mil  
+C22        1uF                TopLayer    CAP_0201           198,000mil    831,811mil    90       "CAP CER 1UF 16V X5R 0201"                                              198,000mil  831,811mil  198,000mil  820,000mil  
+C21        1uF                TopLayer    CAP_0201           223,000mil    831,811mil    90       "CAP CER 1UF 16V X5R 0201"                                              223,000mil  831,811mil  223,000mil  820,000mil  
+C20        0.1uF              BottomLayer CAP_0201           99,189mil     939,000mil    360      "CAP CER 0.1UF 35V X5R 0201"                                            99,189mil   939,000mil  87,378mil   939,000mil  
+C19        47uF               TopLayer    EEEFT1C470AR       325,000mil    850,000mil    270      "CAP ALUM 47µF, 16 V SMD"                                               325,000mil  850,000mil  325,000mil  918,898mil  
+SB1        "Solder Bridge"    TopLayer    Solder_Bridge      594,206mil    918,249mil    21       "Solder Bridge ON"                                                      594,206mil  918,249mil  566,199mil  907,498mil  
+U8         PRO-OB-440         TopLayer    PRO-OB-440         321,000mil    1319,000mil   90       "RF ANT 2.4GHZ STAMPED MET SLD"                                         321,000mil  1319,000mil 110,370mil  1392,425mil 
+U4         ESP32-PICO-D4      BottomLayer 48-SMD_Module      633,377mil    970,280mil    205      "RX TXRX MOD WIFI SURFACE MOUNT"                                        633,377mil  970,280mil  704,121mil  1122,729mil 
+SW2        434121025816       BottomLayer 434121025816       278,000mil    535,000mil    90       "SWITCH TACTILE SPST-NO 0.05A 12V"                                      278,000mil  535,000mil  278,000mil  405,079mil  
+SB2        "Solder Bridge"    BottomLayer Solder_Bridge      177,000mil    1285,000mil   360      "Solder Bridge ON"                                                      177,000mil  1285,000mil 147,000mil  1285,000mil 
+RF5        1K                 BottomLayer Res-0201           545,000mil    1139,000mil   115      "RES 1K OHM 1% 1/20W 0201"                                              545,000mil  1139,000mil 549,576mil  1129,188mil 
+R17        1.2k               BottomLayer Res-0201           165,000mil    1172,000mil   360      "RES SMD 1.2K OHM 5% 1/20W 0201"                                        165,000mil  1172,000mil 154,173mil  1172,000mil 
+R16        10K                BottomLayer Res-0201           368,000mil    1372,000mil   180      "RES SMD 10K OHM 5% 1/20W 0201"                                         368,000mil  1372,000mil 378,827mil  1372,000mil 
+Q1         UMH3NTN            BottomLayer SOT-363            453,000mil    1346,000mil   180      "TRANS 2NPN PREBIAS 0.15W UMT6"                                         453,000mil  1346,000mil 491,189mil  1371,591mil 
+LED2       IN-S63AT5UW        BottomLayer LED_0603           277,000mil    1172,000mil   180      "Led White Clear 0603 SMD"                                              277,000mil  1172,000mil 309,480mil  1172,000mil 
+L3         1.6nH              BottomLayer Ind_0402           197,000mil    1388,000mil   270      "FIXED IND 1.6NH 660MA 150 MOHM"                                        197,000mil  1388,000mil 197,000mil  1406,701mil 
+J5         U.FL-R-SMT-1(80)   TopLayer    U.FL-R-SMT-1(80)   747,788mil    963,510mil    111      "CONN U.FL RCPT STR 50 OHM SMD"                                         760,060mil  977,971mil  794,000mil  991,000mil  
+CF2        0.1uF              BottomLayer CAP_0201           185,000mil    526,000mil    90       "CAP CER 0.1UF 35V X5R 0201"                                            185,000mil  526,000mil  185,000mil  514,189mil  
+C34        1uF                BottomLayer CAP_0201           792,305mil    1003,375mil   115      "CAP CER 1UF 16V X5R 0201"                                              792,305mil  1003,375mil 797,297mil  992,671mil  
+C33        0.1uF              TopLayer    CAP_0201           699,000mil    1126,000mil   205      "CAP CER 0.1UF 35V X5R 0201"                                            699,000mil  1126,000mil 709,704mil  1130,992mil 
+C32        4.7pF              BottomLayer Cap0402            173,000mil    1331,000mil   180      "CAP CER 4.7PF 16V C0G/NP0 0402"                                        173,000mil  1331,000mil 191,500mil  1331,000mil 
+C26        2.7pF              BottomLayer Cap0402            153,000mil    1389,000mil   270      "CAP CER 2.7PF 25V NP0 0402"                                            153,000mil  1389,000mil 153,000mil  1407,500mil 
+C25        0.1uF              TopLayer    CAP_0201           480,919mil    1037,704mil   295      "CAP CER 0.1UF 35V X5R 0201"                                            480,919mil  1037,704mil 475,927mil  1048,409mil 
+C17        0.1uF              TopLayer    CAP_0201           715,000mil    1065,000mil   201      "CAP CER 0.1UF 35V X5R 0201"                                            715,000mil  1065,000mil 726,027mil  1069,233mil 
+C16        0.1uF              TopLayer    CAP_0201           503,009mil    1047,704mil   295      "CAP CER 0.1UF 35V X5R 0201"                                            503,009mil  1047,704mil 498,017mil  1058,409mil 
+C14        0.1uF              TopLayer    CAP_0201           676,000mil    859,296mil    111      "CAP CER 0.1UF 35V X5R 0201"                                            676,000mil  859,296mil  680,233mil  848,269mil  
+C7         0.1uF              TopLayer    CAP_0201           648,000mil    1116,000mil   295      "CAP CER 0.1UF 35V X5R 0201"                                            648,000mil  1116,000mil 643,009mil  1126,704mil 
+J3         TC2030-IDC         TopLayer    TC2030-IDC         450,000mil    1541,000mil   360      "CABLE ADAPTER 6 POS"                                                   450,000mil  1541,000mil 400,000mil  1516,000mil 
+C27        10uf               TopLayer    Cap0603            619,000mil    805,000mil    201      "CAP CER 10UF 25V X5R 0603"                                             619,000mil  805,000mil  647,007mil  815,751mil  
+J2         "SMD PADS"         BottomLayer SMD_PAD            237,740mil    111,000mil    180      ""                                                                      237,740mil  111,000mil  277,740mil  111,000mil  
+U7         "XKT-510 T3168"    BottomLayer SOP-8              -26,008mil    353,000mil    180      "Wireless charging receiver IC Receive universal IC"                    -26,008mil  353,000mil  82,260mil   428,000mil  
+U5         TMC2209-LA-T'      BottomLayer QFN-28             243,000mil    895,000mil    360      "Motor Driver, Stepper, QFN-28"                                         243,000mil  895,000mil  144,575mil  835,945mil  
+U3         NCP186AMX330TAG    TopLayer    NCP186AMX330TAG    650,409mil    357,874mil    0        "IC REG LINEAR 3.3V 1A 8XDFN"                                           650,409mil  357,874mil  629,740mil  381,496mil  
+U2         BQ24092DGQR        TopLayer    BQ24092DGQR        577,740mil    188,000mil    360      "IC BATT CHG LI-ION 1CELL 10MSOP"                                       577,740mil  188,000mil  495,063mil  227,370mil  
+U1         TPS61089RNRT       TopLayer    TPS61089RNRT       749,000mil    605,000mil    90       "IC REG BOOST ADJ 7A 11VQFN"                                            749,000mil  605,000mil  719,472mil  558,740mil  
+RF3        10K                BottomLayer Res-0201           97,173mil     855,000mil    0        "RES SMD 10K OHM 5% 1/20W 0201"                                         97,173mil   855,000mil  86,347mil   855,000mil  
+RF2        10K                TopLayer    Res-0201           780,528mil    690,000mil    270      "RES SMD 10K OHM 5% 1/20W 0201"                                         780,528mil  690,000mil  780,528mil  700,827mil  
+RF1        10K                TopLayer    Res-0201           725,740mil    188,000mil    180      "RES SMD 10K OHM 5% 1/20W 0201"                                         725,740mil  188,000mil  736,567mil  188,000mil  
+R28        2K                 BottomLayer Res-0201           -195,173mil   328,000mil    360      "RES 2K OHM 5% 1/20W 0201"                                              -195,173mil 328,000mil  -206,000mil 328,000mil  
+R27        6.2K               BottomLayer Res-0201           -195,173mil   278,000mil    180      "RES 6.2K OHM 5% 1/20W 0201"                                            -195,173mil 278,000mil  -184,346mil 278,000mil  
+R19        320K               BottomLayer Res0603            283,740mil    1064,000mil   360      "RES 320K OHM 0.25% 1/10W 0603"                                         283,740mil  1064,000mil 253,740mil  1064,000mil 
+R18        100K               BottomLayer Res-0201           313,000mil    1115,000mil   270      "RES SMD 100K OHM 1% 1/20W 0201"                                        313,000mil  1115,000mil 313,000mil  1125,827mil 
+R14        1K                 TopLayer    Res-0201           335,740mil    535,000mil    180      "RES 1K OHM 1% 1/20W 0201"                                              335,740mil  535,000mil  346,567mil  535,000mil  
+R13        198K               BottomLayer Res0402            100,740mil    90,000mil     180      "RES 198K OHM 0.5% 1/16W 0402"                                          100,740mil  90,000mil   119,240mil  90,000mil   
+R12        B57230V2103F260    TopLayer    Res0402            278,240mil    536,000mil    0        "THERMISTOR NTC 10KOHM 3380K 0402"                                      278,240mil  536,000mil  259,740mil  536,000mil  
+R11        1K                 BottomLayer Res-0201           216,740mil    1071,000mil   270      "RES 1K OHM 1% 1/20W 0201"                                              216,740mil  1071,000mil 216,740mil  1081,827mil 
+R10        56K                BottomLayer Res-0201           41,740mil     89,000mil     180      "RES SMD 56K OHM 1% 1/20W 0201"                                         41,740mil   89,000mil   52,567mil   89,000mil   
+R9         100K               BottomLayer Res-0201           -195,173mil   378,000mil    180      "RES SMD 100K OHM 1% 1/20W 0201"                                        -195,173mil 378,000mil  -184,346mil 378,000mil  
+R8         B57230V2103F260    TopLayer    Res0402            311,000mil    1017,724mil   270      "THERMISTOR NTC 10KOHM 3380K 0402"                                      311,000mil  1017,724mil 311,000mil  1036,224mil 
+R7         ""                 TopLayer    Res-0201           706,704mil    337,000mil    90       "RES SMD 10K OHM 5% 1/20W 0201"                                         706,704mil  337,000mil  706,704mil  326,173mil  
+R6         1.1K               TopLayer    Res-0201           434,740mil    197,000mil    90       "RES SMD 1.1K OHM 1% 1/20W 0201"                                        434,740mil  197,000mil  434,740mil  186,173mil  
+R5         18K                TopLayer    Res-0201           810,779mil    547,000mil    270      "RES SMD 18K OHM 1% 1/20W 0201"                                         810,779mil  547,000mil  810,779mil  557,827mil  
+R4         150K               TopLayer    Res-0201           754,000mil    690,000mil    270      "RES 150K OHM 1% 1/20W 0201"                                            754,000mil  690,000mil  754,000mil  700,827mil  
+R1         150K               TopLayer    Res-0201           681,000mil    580,000mil    270      "RES 150K OHM 1% 1/20W 0201"                                            681,000mil  580,000mil  681,000mil  590,827mil  
+L2         22uH               BottomLayer SRU8028-220Y       -129,740mil   672,543mil    270      "FIXED IND 22UH 1.6A 106 MOHM SMD"                                      -129,740mil 672,543mil  -129,740mil 826,087mil  
+L1         10µH               TopLayer    SRN5040TA-100M     567,000mil    606,000mil    270      "Ind Power Wirewound 10uH 20% Ferrite Core T/R"                         567,000mil  606,000mil  567,000mil  676,866mil  
+J4         B4B-PH-K-S(LF)(SN) TopLayer    B4B-PH-K-S(LF)(SN) 441,850mil    1,000mil      360      "CONN HEADER VERT 4POS 2MM"                                             402,480mil  1,000mil    323,740mil  1,000mil    
+D3         SS34               TopLayer    SMC                -100,260mil   796,000mil    360      "DIODE SCHOTTKY 40V 3A DO214AB"                                         -100,260mil 796,000mil  -251,260mil 796,000mil  
+D2         SS34               TopLayer    SMC                20,740mil     401,000mil    90       "DIODE SCHOTTKY 40V 3A DO214AB"                                         20,740mil   401,000mil  20,740mil   250,000mil  
+CF1        1uF                TopLayer    Cap_0201           712,197mil    387,307mil    90       "CAP CER 1UF 16V X5R 0201"                                              712,197mil  387,307mil  712,197mil  375,496mil  
+C31        10uF               TopLayer    Cap_Case-C         -68,260mil    1001,000mil   360      "CAP TANT 10UF 20% 25V 2312"                                            -68,260mil  1001,000mil -181,260mil 1001,000mil 
+C30        10uF               TopLayer    Cap_Case-C         -184,260mil   454,000mil    90       "CAP TANT 10UF 20% 25V 2312"                                            -184,260mil 454,000mil  -184,260mil 341,000mil  
+C29        10000pF            TopLayer    CAP_0201           25,000mil     191,000mil    180      "CAP CER X7R 0201"                                                      25,000mil   191,000mil  36,811mil   191,000mil  
+C24        4.7uF              BottomLayer Cap0402            139,000mil    1039,000mil   270      "CAP CER 4.7UF 10V X5R 0402"                                            139,000mil  1039,000mil 139,000mil  1057,500mil 
+C23        4.7uF              BottomLayer Cap0402            402,500mil    961,000mil    180      "CAP CER 4.7UF 10V X5R 0402"                                            402,500mil  961,000mil  421,000mil  961,000mil  
+C18        22nF               BottomLayer CAP_0201           98,000mil     915,000mil    360      "CAP CER 0.022UF 25V X5R 0201"                                          98,000mil   915,000mil  86,189mil   915,000mil  
+C13        1uF                TopLayer    CAP_0201           577,740mil    380,748mil    180      "CAP CER 1UF 16V X5R 0201"                                              577,740mil  380,748mil  589,551mil  380,748mil  
+C12        0.1uF              TopLayer    Cap_0201           577,740mil    332,748mil    180      "CAP CER 0.1UF 35V X5R 0201"                                            577,740mil  332,748mil  589,551mil  332,748mil  
+C10        0.1uF              TopLayer    CAP_0201           736,449mil    387,307mil    270      "CAP CER 0.1UF 35V X5R 0201"                                            736,449mil  387,307mil  736,449mil  399,118mil  
+C9         4.7nF              TopLayer    Cap_0201           845,000mil    505,000mil    180      "CAP CER 4700PF 25V X5R 0201"                                           845,000mil  505,000mil  856,811mil  505,000mil  
+C8         1uF                TopLayer    CAP_0201           727,346mil    528,336mil    180      "CAP CER 1UF 16V X5R 0201"                                              727,346mil  528,336mil  739,157mil  528,336mil  
+C6         4.7uF              BottomLayer Cap0402            562,633mil    215,000mil    90       "0402 10 V 4.7 uF ±20% Tolerance X5R Multilayer Ceramic Chip Capacitor" 562,633mil  215,000mil  562,633mil  196,500mil  
+C5         22uF               BottomLayer Cap0603            811,000mil    605,000mil    90       "CAP CER 22UF 10V X5R 0603"                                             811,000mil  605,000mil  811,000mil  575,000mil  
+C4         22uF               BottomLayer Cap0603            859,000mil    604,740mil    90       "CAP CER 22UF 10V X5R 0603"                                             859,000mil  604,740mil  859,000mil  574,740mil  
+C3         4.7uF              TopLayer    Cap0402            708,146mil    725,500mil    180      "0402 10 V 4.7 uF ±20% Tolerance X5R Multilayer Ceramic Chip Capacitor" 708,146mil  725,500mil  726,646mil  725,500mil  
+C2         4.7uF              BottomLayer Cap0402            669,000mil    218,000mil    270      "0402 10 V 4.7 uF ±20% Tolerance X5R Multilayer Ceramic Chip Capacitor" 669,000mil  218,000mil  669,000mil  236,500mil  
+C1         22nF               TopLayer    CAP_0201           681,000mil    628,000mil    90       "CAP CER 0.022UF 25V X5R 0201"                                          681,000mil  628,000mil  681,000mil  616,189mil  

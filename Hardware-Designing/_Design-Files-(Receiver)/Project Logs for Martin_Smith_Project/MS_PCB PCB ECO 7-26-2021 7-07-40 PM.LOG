@@ -1,0 +1,13 @@
+Change Component Description : Designator=R15 Old Description=0.18O ±5% 1W ±200ppm/? 2512 Chip Resistor - Surface Mount RoHS New Description=0.18O ±5% 1W ±200ppm/? 2512 Chip Resistor - Surface Mount RoHS
+Change Component Description : Designator=R20 Old Description=0.18O ±5% 1W ±200ppm/? 2512 Chip Resistor - Surface Mount RoHS New Description=0.18O ±5% 1W ±200ppm/? 2512 Chip Resistor - Surface Mount RoHS
+Change Component Description : Designator=R3 Old Description=RES SMD 107kO ±1% 1/20W  0201 New Description=RES SMD 107kO ±1% 1/20W  0201
+Change component parameters: Designator = "R3"; Footprint = "Res-0201"; UniqueID = "\RGQUEKWR\IJEYUAMC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = "1/20W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "107kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "±200ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Power Section Member=Component C11 4.7uF
+Added Member To Class: ClassName=U_Control_Sheet Member=Component C15 0.1uF
