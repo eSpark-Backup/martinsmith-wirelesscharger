@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=U2   NewDesignator=U2
+Added Member To Class: ClassName=U_Wireless Transmitter Section Member=Component C1 1nF
+Added Member To Class: ClassName=U_Wireless Transmitter Section Member=Component C2 22uF
+Added Member To Class: ClassName=U_Wireless Transmitter Section Member=Component C3 39nF
+Added Member To Class: ClassName=U_Wireless Transmitter Section Member=Component R1 47K
+Added Member To Class: ClassName=U_Wireless Transmitter Section Member=Component U2 XKT-335
