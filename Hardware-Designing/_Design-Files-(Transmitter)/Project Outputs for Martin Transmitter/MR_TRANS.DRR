@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MR_TRANS.PcbDoc   2/27/2021  7:47:31 AM
+NCDrill File Report For: MR_TRANS.PcbDoc   9/9/2021  11:21:49 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,9 +8,9 @@ ASCII SlotHoles File : MR_TRANS-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             20        PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             15        PTH        0.00inch (0.00mm)
 T2      18mil (0.45mm)                                            Slot              4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              24
+Totals                                                                              19
 
 Total Processing Time (hh:mm:ss) : 00:00:00

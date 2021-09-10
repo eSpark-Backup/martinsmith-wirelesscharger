@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+E:\Git\Martin_Smith\Hardware-Designing\_Design-Files-(Transmitter)\Project Outputs for Martin Transmitter\Pick Place for MR_TRANS.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/09/21
+Time:       23:28
+Revision:   b1ecf711ea95408582567948b922ddf99e48d787
+Variant:    No variations
+Units used: mil
+
+Designator Layer       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil) Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+C3         BottomLayer 138,760mil    -593,682mil   10       138,760mil -593,682mil 89,519mil   -602,365mil 
+C2         BottomLayer 152,760mil    -725,682mil   10       152,760mil -725,682mil 103,520mil  -734,365mil 
+C1         BottomLayer -89,173mil    -698,000mil   360      -89,173mil -698,000mil -100,984mil -698,000mil 
+U1         TopLayer    15,268mil     -674,000mil   360      15,268mil  -674,000mil -93,000mil  -599,000mil 
+U2         TopLayer    366,000mil    -570,000mil   210      366,000mil -570,000mil 497,262mil  -580,818mil 
+R5         TopLayer    632,802mil    -209,542mil   255      632,802mil -209,542mil 635,604mil  -199,084mil 
+R4         TopLayer    599,198mil    -152,458mil   75       599,198mil -152,458mil 596,396mil  -162,916mil 
+R3         BottomLayer -91,173mil    -656,000mil   180      -91,173mil -656,000mil -80,347mil  -656,000mil 
+R2         BottomLayer -19,000mil    -698,000mil   360      -19,000mil -698,000mil -29,827mil  -698,000mil 
+R1         BottomLayer -18,173mil    -663,000mil   360      -18,173mil -663,000mil -29,000mil  -663,000mil 
+J2         BottomLayer 659,295mil    -188,547mil   255      655,492mil -187,528mil 621,923mil  -54,218mil  
+J1         TopLayer    576,288mil    -486,642mil   230      576,288mil -486,642mil 602,000mil  -456,000mil 
+C6         TopLayer    568,212mil    -260,870mil   75       568,212mil -260,870mil 563,424mil  -278,739mil 
+C5         TopLayer    587,057mil    -205,591mil   75       587,057mil -205,591mil 584,000mil  -217,000mil 

@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\eSpark-37\Documents\GitHub\Martin_Smith\Hardware-Designing\_Design-Files-(Receiver)\Project Outputs for Martin_Smith_Project\Pick Place for MS_PCB.txt
+E:\Git\Martin_Smith\Hardware-Designing\_Design-Files-(Receiver)\Project Outputs for Martin_Smith_Project\Pick Place for MS_PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       26/07/21
-Time:       19:53
-Revision:   63b394905a4c49fe660ca125e4ec9f2fecd2bb1b
+Date:       09/09/21
+Time:       23:01
+Revision:   f874dc853e9c4f28e98745bacd4022ac626e50f5
 Variant:    No variations
 Units used: mil
 
